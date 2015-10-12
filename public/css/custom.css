@@ -1,0 +1,15 @@
+img#home_me {
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+    margin: auto;
+}
+
+p {
+	font-size: 20px;
+}
+
+h1 {
+	padding-bottom: 12px;
+}
